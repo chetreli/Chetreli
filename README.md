@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**chetreli/Chetreli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to see you here!  
+I’m Chetreli, a Junior Data Scientist based in Russia 🇷🇺
 
-Here are some ideas to get you started:
+I’m building a strong foundation in data science 🚀  
+I follow a structured learning roadmap and grow through practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with the Python data science stack 🐍  
+NumPy, pandas, scikit-learn, matplotlib, and seaborn.  
+I use SQL for data analysis and understand database design 🗄️  
+I’m also familiar with basic CI/CD concepts ⚙️
+
+Here you’ll find my pet projects 💡  
+They span healthcare, business, and banking domains.  
+The work covers both machine learning and data analytics 📊  
+I enjoy turning data into insights and learning by doing.
